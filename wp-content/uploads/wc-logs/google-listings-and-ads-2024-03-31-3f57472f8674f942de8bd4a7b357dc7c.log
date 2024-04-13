@@ -1,0 +1,3 @@
+2024-03-31T03:16:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 761): ["Ch\u01a1i v\u00e0 h\u1ecdc > B\u00e9 h\u1ecdc ch\u1eef v\u00e0 s\u1ed1"].
+2024-03-31T03:17:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":761,"google_id":"online:vi:VN:gla_761"}]

@@ -1,0 +1,3 @@
+2024-03-24T03:51:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 163): ["Ch\u01a1i v\u00e0 h\u1ecdc > B\u00e9 \u0111\u1ecdc s\u00e1ch"].
+2024-03-24T03:51:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":163,"google_id":"online:vi:VN:gla_163"}]

@@ -1,0 +1,1 @@
+«]e<?php exit; ?>a:1:{s:7:"content";s:124:"a:2:{s:7:"timeout";i:1700705801;s:5:"value";s:71:"{"success":true,"license":"valid","expires":"01.01.2030","features":[]}";}";}

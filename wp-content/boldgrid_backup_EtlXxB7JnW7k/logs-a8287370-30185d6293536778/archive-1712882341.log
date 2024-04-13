@@ -1,0 +1,202 @@
+
+[2024-04-12 00:39:01 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-12 00:39:01 UTC] Backup process initialized.
+[2024-04-12 00:39:01 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-12 00:39:01 UTC] Backup process initialized.
+[2024-04-12 00:39:01 UTC] Process id: 259242
+[2024-04-12 00:39:01 UTC] --------------------------------------------------------------------------------
+[2024-04-12 00:39:01 UTC] Starting dump of database...
+[2024-04-12 00:39:01 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 34191880 (32,61 MB) / 59230624 (56 MB)
+[2024-04-12 00:39:02 UTC] Database info: Array
+(
+    [wp_actionscheduler_actions] => 210
+    [wp_actionscheduler_claims] => 3
+    [wp_actionscheduler_groups] => 10
+    [wp_actionscheduler_logs] => 548
+    [wp_commentmeta] => 0
+    [wp_comments] => 6
+    [wp_e_events] => 0
+    [wp_e_submissions] => 635
+    [wp_e_submissions_actions_log] => 635
+    [wp_e_submissions_values] => 2540
+    [wp_expm_hiiden_content] => 0
+    [wp_expm_maker] => 1
+    [wp_expm_maker_pages] => 0
+    [wp_find_and_replace] => 0
+    [wp_gla_attribute_mapping_rules] => 0
+    [wp_gla_budget_recommendations] => 4230
+    [wp_gla_merchant_issues] => 0
+    [wp_gla_shipping_rates] => 0
+    [wp_gla_shipping_times] => 1
+    [wp_imagify_files] => 956
+    [wp_imagify_folders] => 1
+    [wp_itsec_bans] => 0
+    [wp_itsec_dashboard_events] => 79
+    [wp_itsec_dashboard_lockouts] => 12
+    [wp_itsec_distributed_storage] => 0
+    [wp_itsec_fingerprints] => 0
+    [wp_itsec_firewall_rules] => 0
+    [wp_itsec_geolocation_cache] => 0
+    [wp_itsec_lockouts] => 11
+    [wp_itsec_logs] => 3784
+    [wp_itsec_mutexes] => 0
+    [wp_itsec_opaque_tokens] => 0
+    [wp_itsec_temp] => 134
+    [wp_itsec_user_groups] => 0
+    [wp_itsec_vulnerabilities] => 1
+    [wp_links] => 0
+    [wp_options] => 791
+    [wp_postmeta] => 3463
+    [wp_posts] => 535
+    [wp_rank_math_404_logs] => 79
+    [wp_rank_math_internal_links] => 1176
+    [wp_rank_math_internal_meta] => 160
+    [wp_rank_math_redirections] => 0
+    [wp_rank_math_redirections_cache] => 0
+    [wp_social_users] => 0
+    [wp_term_relationships] => 78
+    [wp_term_taxonomy] => 56
+    [wp_termmeta] => 8
+    [wp_terms] => 56
+    [wp_usermeta] => 159
+    [wp_users] => 3
+    [wp_wc_admin_note_actions] => 123
+    [wp_wc_admin_notes] => 89
+    [wp_wc_category_lookup] => 16
+    [wp_wc_customer_lookup] => 1
+    [wp_wc_download_log] => 0
+    [wp_wc_order_addresses] => 0
+    [wp_wc_order_coupon_lookup] => 0
+    [wp_wc_order_operational_data] => 0
+    [wp_wc_order_product_lookup] => 6
+    [wp_wc_order_stats] => 5
+    [wp_wc_order_tax_lookup] => 0
+    [wp_wc_orders] => 0
+    [wp_wc_orders_meta] => 0
+    [wp_wc_product_attributes_lookup] => 0
+    [wp_wc_product_download_directories] => 2
+    [wp_wc_product_meta_lookup] => 0
+    [wp_wc_rate_limits] => 0
+    [wp_wc_reserved_stock] => 0
+    [wp_wc_tax_rate_classes] => 2
+    [wp_wc_webhooks] => 0
+    [wp_woocommerce_api_keys] => 0
+    [wp_woocommerce_attribute_taxonomies] => 0
+    [wp_woocommerce_downloadable_product_permissions] => 0
+    [wp_woocommerce_log] => 0
+    [wp_woocommerce_order_itemmeta] => 54
+    [wp_woocommerce_order_items] => 6
+    [wp_woocommerce_payment_tokenmeta] => 0
+    [wp_woocommerce_payment_tokens] => 0
+    [wp_woocommerce_sessions] => 1
+    [wp_woocommerce_shipping_zone_locations] => 0
+    [wp_woocommerce_shipping_zone_methods] => 0
+    [wp_woocommerce_shipping_zones] => 0
+    [wp_woocommerce_tax_rate_locations] => 0
+    [wp_woocommerce_tax_rates] => 0
+    [wp_wpfm_backup] => 0
+    [wp_wpr_rocket_cache] => 41
+    [wp_wpr_rucss_used_css] => 79
+    [wp_yith_wcwl] => 18
+    [wp_yith_wcwl_lists] => 6
+)
+
+[2024-04-12 00:39:03 UTC] Dump of database complete! $status = 1
+[2024-04-12 00:39:03 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 34203016 (32,62 MB) / 59230624 (56 MB)
+[2024-04-12 00:39:03 UTC] --------------------------------------------------------------------------------
+[2024-04-12 00:39:03 UTC] Retrieving file list.
+[2024-04-12 00:39:05 UTC] Retrieving backup directory.
+[2024-04-12 00:39:05 UTC] Adding Database to file list.
+[2024-04-12 00:39:05 UTC] Database dump file added to file list: /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/wordpress.20240412-003902.sql / 9454802 (9,02 MB)
+[2024-04-12 00:39:05 UTC] Starting archiving of files. Chosen compressor: php_zip
+[2024-04-12 00:39:05 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 55869056 (53,28 MB) / 59440808 (57 MB)
+[2024-04-12 00:39:10 UTC] Total files / size archived: 32540 / 4446091102 (4,14 GB)
+[2024-04-12 00:39:10 UTC] Starting to close the zip file.
+[2024-04-12 00:39:10 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 56622640 (54,00 MB) / 59440808 (57 MB)
+[2024-04-12 00:41:42 UTC] Finished closing the zip file.
+[2024-04-12 00:41:42 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 56622480 (54,00 MB) / 59440808 (57 MB)
+[2024-04-12 00:41:42 UTC] Archiving of files complete!
+[2024-04-12 00:41:42 UTC] Archiving of files did not complete successfully: Array
+(
+    [error] => Cannot close ZIP archive file "/var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240412-003905.zip".
+)
+
+[2024-04-12 00:41:42 UTC] Archive filepath / size: /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240412-003905.zip / 0 (0,00 B)
+[2024-04-12 00:41:42 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 56622536 (54,00 MB) / 59440808 (57 MB)
+[2024-04-12 00:41:42 UTC] Cannot close ZIP archive file "/var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240412-003905.zip".
+[2024-04-12 00:41:42 UTC] Backup complete!
+[2024-04-12 00:41:42 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 34205752 (32,62 MB) / 59440808 (57 MB)
+[2024-04-12 00:41:49 UTC] wp_mail_failed: Array
+(
+    [wp_error] => WP_Error Object
+        (
+            [errors] => Array
+                (
+                    [wp_mail_failed] => Array
+                        (
+                            [0] => Could not instantiate mail function.
+                        )
+
+                )
+
+            [error_data] => Array
+                (
+                    [wp_mail_failed] => Array
+                        (
+                            [to] => Array
+                                (
+                                    [0] => admin@wowpow.com.vn
+                                )
+
+                            [subject] => [Bé Cao Khỏe] Plugin không cập nhật thành công
+                            [message] => Plugin không thể cập nhật tại địa chỉ http://wowpow.com.vn.
+
+
+Hãy kiểm tra website của bạn ngay. Mọi thứ có thể đã hoạt động bình thường. Nếu bạn thấy có bản cập nhật, bạn nên nâng cấp.
+
+
+Các plugin sau cập nhật không thành công:
+- Elementor Pro (from version 3.16.0 to 3.20.3) : https://elementor.com/pro/changelog/
+
+
+
+
+Các plugin sau đã cập nhật thành công:
+- WP EXtra (from version 7.7 to 7.8) : https://wordpress.org/plugins/wp-extra/
+
+
+Để quản lý các plugin trên trang web của bạn, hãy truy cập đến trang plugin:http://wowpow.com.vn/wp-admin/plugins.php
+
+
+Nếu bạn gặp bất cứ vấn đề gì hoặc cần hỗ trợ, các tình nguyện viên tại diễn đàn hỗ trợ của WordPress.org có thể sẵn sàng giúp bạn.
+https://wordpress.org/support/forums/
+
+Nhóm Phát Triển WordPress
+                            [headers] => Array
+                                (
+                                )
+
+                            [attachments] => Array
+                                (
+                                )
+
+                            [phpmailer_exception_code] => 2
+                        )
+
+                )
+
+            [additional_data:protected] => Array
+                (
+                )
+
+        )
+
+    [last_error] => Array
+        (
+            [type] => 2
+            [message] => ZipArchive::close(): Seek error: No space left on device
+            [file] => /var/www/html/wowtop/vetinh1/wp-content/plugins/boldgrid-backup/admin/compressor/class-boldgrid-backup-admin-compressor-php-zip.php
+            [line] => 266
+        )
+
+)

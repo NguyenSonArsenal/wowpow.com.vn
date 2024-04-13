@@ -1,0 +1,4 @@
+2024-04-08T01:28:47+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2024-04-08T01:28:47+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Please reconnect your Jetpack account.
+2024-04-08T01:28:48+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2024-04-08T01:28:48+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Please reconnect your Jetpack account.

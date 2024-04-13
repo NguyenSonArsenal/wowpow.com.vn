@@ -1,0 +1,30 @@
+Apr 13 2024 01:55:32
+{"type":8,"message":"fwrite(): write of 283 bytes failed with errno=28 No space left on device","file":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","line":1493}
+
+Apr 13 2024 01:56:17
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=28 No space left on device","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+
+Apr 13 2024 01:57:21
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=28 No space left on device","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+
+Apr 13 2024 02:00:18
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=28 No space left on device","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+
+Apr 13 2024 02:02:19
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/c8fot3jms8px\/wowpow-com-vn-20240413-085954-mzk6t9.wpress","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Apr 13 2024 02:02:19
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/c8fot3jms8px\/content.list): failed to open stream: No such file or directory","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1475}
+
+Apr 13 2024 02:02:19
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/c8fot3jms8px\/wowpow-com-vn-20240413-085954-mzk6t9.wpress","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Apr 13 2024 02:02:19
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/c8fot3jms8px\/content.list): failed to open stream: No such file or directory","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1475}
+
+Apr 13 2024 02:03:50
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=28 No space left on device","File":"\/var\/www\/html\/wowtop\/vetinh1\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+
+Apr 13 2024 02:35:28
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=28 No space left on device","File":"\/var\/www\/html\/wowpow\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":102}
+

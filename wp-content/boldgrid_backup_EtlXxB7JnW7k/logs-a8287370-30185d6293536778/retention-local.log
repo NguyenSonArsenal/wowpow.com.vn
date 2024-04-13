@@ -1,0 +1,183 @@
+
+[2024-04-04 01:21:06 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-04 01:21:06 UTC] Beginning core::enforce_retention...
+[2024-04-04 01:21:06 UTC] Retention count: 5
+[2024-04-04 01:21:06 UTC] Number of archives found: 0
+[2024-04-04 01:21:06 UTC] Number of protected archives found: 0
+[2024-04-04 01:21:06 UTC] No backups to delete at this time due to retention settings.
+[2024-04-04 01:24:08 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-04 01:24:08 UTC] Beginning core::enforce_retention...
+[2024-04-04 01:24:08 UTC] Retention count: 5
+[2024-04-04 01:24:08 UTC] Number of archives found: 1
+[2024-04-04 01:24:08 UTC] Number of protected archives found: 0
+[2024-04-04 01:24:08 UTC] No backups to delete at this time due to retention settings.
+[2024-04-04 04:34:57 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-04 04:34:57 UTC] Beginning core::enforce_retention...
+[2024-04-04 04:34:57 UTC] Retention count: 5
+[2024-04-04 04:34:57 UTC] Number of archives found: 1
+[2024-04-04 04:34:57 UTC] Number of protected archives found: 0
+[2024-04-04 04:34:57 UTC] No backups to delete at this time due to retention settings.
+[2024-04-04 04:36:03 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-04 04:36:03 UTC] Beginning core::enforce_retention...
+[2024-04-04 04:36:03 UTC] Retention count: 5
+[2024-04-04 04:36:03 UTC] Number of archives found: 2
+[2024-04-04 04:36:03 UTC] Number of protected archives found: 0
+[2024-04-04 04:36:03 UTC] No backups to delete at this time due to retention settings.
+[2024-04-05 03:49:28 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-05 03:49:28 UTC] Beginning core::enforce_retention...
+[2024-04-05 03:49:28 UTC] Retention count: 5
+[2024-04-05 03:49:28 UTC] Number of archives found: 2
+[2024-04-05 03:49:28 UTC] Number of protected archives found: 0
+[2024-04-05 03:49:28 UTC] No backups to delete at this time due to retention settings.
+[2024-04-05 03:50:32 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-05 03:50:32 UTC] Beginning core::enforce_retention...
+[2024-04-05 03:50:32 UTC] Retention count: 5
+[2024-04-05 03:50:32 UTC] Number of archives found: 3
+[2024-04-05 03:50:32 UTC] Number of protected archives found: 0
+[2024-04-05 03:50:32 UTC] No backups to delete at this time due to retention settings.
+[2024-04-05 19:46:29 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-05 19:46:29 UTC] Beginning core::enforce_retention...
+[2024-04-05 19:46:29 UTC] Retention count: 5
+[2024-04-05 19:46:29 UTC] Number of archives found: 3
+[2024-04-05 19:46:29 UTC] Number of protected archives found: 0
+[2024-04-05 19:46:29 UTC] No backups to delete at this time due to retention settings.
+[2024-04-05 19:47:22 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-05 19:47:22 UTC] Beginning core::enforce_retention...
+[2024-04-05 19:47:22 UTC] Retention count: 5
+[2024-04-05 19:47:22 UTC] Number of archives found: 4
+[2024-04-05 19:47:22 UTC] Number of protected archives found: 0
+[2024-04-05 19:47:22 UTC] No backups to delete at this time due to retention settings.
+[2024-04-06 02:52:18 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-06 02:52:18 UTC] Beginning core::enforce_retention...
+[2024-04-06 02:52:18 UTC] Retention count: 5
+[2024-04-06 02:52:18 UTC] Number of archives found: 4
+[2024-04-06 02:52:18 UTC] Number of protected archives found: 0
+[2024-04-06 02:52:18 UTC] No backups to delete at this time due to retention settings.
+[2024-04-06 02:53:14 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-06 02:53:14 UTC] Beginning core::enforce_retention...
+[2024-04-06 02:53:14 UTC] Retention count: 5
+[2024-04-06 02:53:14 UTC] Number of archives found: 5
+[2024-04-06 02:53:14 UTC] Number of protected archives found: 0
+[2024-04-06 02:53:14 UTC] No backups to delete at this time due to retention settings.
+[2024-04-08 01:28:50 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-08 01:28:50 UTC] Beginning core::enforce_retention...
+[2024-04-08 01:28:50 UTC] Retention count: 5
+[2024-04-08 01:28:50 UTC] Number of archives found: 5
+[2024-04-08 01:28:50 UTC] Number of protected archives found: 0
+[2024-04-08 01:28:50 UTC] No backups to delete at this time due to retention settings.
+[2024-04-08 01:29:57 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-08 01:29:57 UTC] Beginning core::enforce_retention...
+[2024-04-08 01:29:57 UTC] Retention count: 5
+[2024-04-08 01:29:57 UTC] Number of archives found: 6
+[2024-04-08 01:29:57 UTC] Number of protected archives found: 0
+[2024-04-08 01:29:57 UTC] Deleted /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240404-012123.zip
+[2024-04-08 01:29:57 UTC] Completed core::enforce_retention.
+[2024-04-08 01:29:57 UTC] --------------------------------------------------------------------------------
+[2024-04-08 02:52:47 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-08 02:52:47 UTC] Beginning core::enforce_retention...
+[2024-04-08 02:52:47 UTC] Retention count: 5
+[2024-04-08 02:52:47 UTC] Number of archives found: 5
+[2024-04-08 02:52:47 UTC] Number of protected archives found: 0
+[2024-04-08 02:52:47 UTC] No backups to delete at this time due to retention settings.
+[2024-04-08 02:53:52 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-08 02:53:52 UTC] Beginning core::enforce_retention...
+[2024-04-08 02:53:52 UTC] Retention count: 5
+[2024-04-08 02:53:52 UTC] Number of archives found: 6
+[2024-04-08 02:53:52 UTC] Number of protected archives found: 0
+[2024-04-08 02:53:52 UTC] Deleted /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240404-043502.zip
+[2024-04-08 02:53:52 UTC] Completed core::enforce_retention.
+[2024-04-08 02:53:52 UTC] --------------------------------------------------------------------------------
+[2024-04-09 04:40:53 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-09 04:40:53 UTC] Beginning core::enforce_retention...
+[2024-04-09 04:40:53 UTC] Retention count: 5
+[2024-04-09 04:40:53 UTC] Number of archives found: 5
+[2024-04-09 04:40:53 UTC] Number of protected archives found: 0
+[2024-04-09 04:40:53 UTC] No backups to delete at this time due to retention settings.
+[2024-04-09 04:43:48 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-09 04:43:48 UTC] Beginning core::enforce_retention...
+[2024-04-09 04:43:48 UTC] Retention count: 5
+[2024-04-09 04:43:48 UTC] Number of archives found: 6
+[2024-04-09 04:43:48 UTC] Number of protected archives found: 0
+[2024-04-09 04:43:48 UTC] Deleted /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240405-034932.zip
+[2024-04-09 04:43:48 UTC] Completed core::enforce_retention.
+[2024-04-09 04:43:48 UTC] --------------------------------------------------------------------------------
+[2024-04-10 02:19:07 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-10 02:19:07 UTC] Beginning core::enforce_retention...
+[2024-04-10 02:19:07 UTC] Retention count: 5
+[2024-04-10 02:19:07 UTC] Number of archives found: 5
+[2024-04-10 02:19:07 UTC] Number of protected archives found: 0
+[2024-04-10 02:19:07 UTC] No backups to delete at this time due to retention settings.
+[2024-04-10 02:20:13 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-10 02:20:13 UTC] Beginning core::enforce_retention...
+[2024-04-10 02:20:13 UTC] Retention count: 5
+[2024-04-10 02:20:13 UTC] Number of archives found: 6
+[2024-04-10 02:20:13 UTC] Number of protected archives found: 0
+[2024-04-10 02:20:13 UTC] Deleted /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240405-194633.zip
+[2024-04-10 02:20:13 UTC] Completed core::enforce_retention.
+[2024-04-10 02:20:13 UTC] --------------------------------------------------------------------------------
+[2024-04-10 06:22:26 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-10 06:22:26 UTC] Beginning core::enforce_retention...
+[2024-04-10 06:22:26 UTC] Retention count: 5
+[2024-04-10 06:22:26 UTC] Number of archives found: 5
+[2024-04-10 06:22:26 UTC] Number of protected archives found: 0
+[2024-04-10 06:22:26 UTC] No backups to delete at this time due to retention settings.
+[2024-04-11 00:58:11 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-11 00:58:11 UTC] Beginning core::enforce_retention...
+[2024-04-11 00:58:11 UTC] Retention count: 5
+[2024-04-11 00:58:11 UTC] Number of archives found: 5
+[2024-04-11 00:58:11 UTC] Number of protected archives found: 0
+[2024-04-11 00:58:11 UTC] No backups to delete at this time due to retention settings.
+[2024-04-11 01:00:01 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-11 01:00:01 UTC] Beginning core::enforce_retention...
+[2024-04-11 01:00:01 UTC] Retention count: 5
+[2024-04-11 01:00:01 UTC] Number of archives found: 5
+[2024-04-11 01:00:01 UTC] Number of protected archives found: 0
+[2024-04-11 01:00:01 UTC] No backups to delete at this time due to retention settings.
+[2024-04-11 01:03:09 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-11 01:03:09 UTC] Beginning core::enforce_retention...
+[2024-04-11 01:03:09 UTC] Retention count: 5
+[2024-04-11 01:03:09 UTC] Number of archives found: 5
+[2024-04-11 01:03:09 UTC] Number of protected archives found: 0
+[2024-04-11 01:03:09 UTC] No backups to delete at this time due to retention settings.
+[2024-04-11 06:39:51 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-11 06:39:51 UTC] Beginning core::enforce_retention...
+[2024-04-11 06:39:51 UTC] Retention count: 5
+[2024-04-11 06:39:51 UTC] Number of archives found: 5
+[2024-04-11 06:39:51 UTC] Number of protected archives found: 0
+[2024-04-11 06:39:51 UTC] No backups to delete at this time due to retention settings.
+[2024-04-12 00:36:10 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-12 00:36:10 UTC] Beginning core::enforce_retention...
+[2024-04-12 00:36:10 UTC] Retention count: 5
+[2024-04-12 00:36:10 UTC] Number of archives found: 5
+[2024-04-12 00:36:10 UTC] Number of protected archives found: 0
+[2024-04-12 00:36:10 UTC] No backups to delete at this time due to retention settings.
+[2024-04-12 00:39:01 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-12 00:39:01 UTC] Beginning core::enforce_retention...
+[2024-04-12 00:39:01 UTC] Retention count: 5
+[2024-04-12 00:39:01 UTC] Number of archives found: 5
+[2024-04-12 00:39:01 UTC] Number of protected archives found: 0
+[2024-04-12 00:39:01 UTC] No backups to delete at this time due to retention settings.
+[2024-04-12 03:50:17 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-12 03:50:17 UTC] Beginning core::enforce_retention...
+[2024-04-12 03:50:17 UTC] Retention count: 5
+[2024-04-12 03:50:17 UTC] Number of archives found: 5
+[2024-04-12 03:50:17 UTC] Number of protected archives found: 0
+[2024-04-12 03:50:17 UTC] No backups to delete at this time due to retention settings.
+[2024-04-13 00:26:23 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-13 00:26:23 UTC] Beginning core::enforce_retention...
+[2024-04-13 00:26:23 UTC] Retention count: 5
+[2024-04-13 00:26:23 UTC] Number of archives found: 5
+[2024-04-13 00:26:23 UTC] Number of protected archives found: 0
+[2024-04-13 00:26:23 UTC] No backups to delete at this time due to retention settings.
+[2024-04-13 00:29:05 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-13 00:29:05 UTC] Beginning core::enforce_retention...
+[2024-04-13 00:29:05 UTC] Retention count: 5
+[2024-04-13 00:29:05 UTC] Number of archives found: 5
+[2024-04-13 00:29:05 UTC] Number of protected archives found: 0
+[2024-04-13 00:29:05 UTC] No backups to delete at this time due to retention settings.
+[2024-04-13 00:31:46 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-13 00:31:46 UTC] Beginning core::enforce_retention...
+[2024-04-13 00:31:46 UTC] Retention count: 5
+[2024-04-13 00:31:46 UTC] Number of archives found: 5
+[2024-04-13 00:31:46 UTC] Number of protected archives found: 0
+[2024-04-13 00:31:46 UTC] No backups to delete at this time due to retention settings.

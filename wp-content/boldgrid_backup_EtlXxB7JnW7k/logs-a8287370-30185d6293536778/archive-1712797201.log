@@ -1,0 +1,128 @@
+
+[2024-04-11 01:00:01 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-11 01:00:01 UTC] Backup process initialized.
+[2024-04-11 01:00:01 UTC] Cannot add signal handlers, pcntl_async_signals function does not exist.
+[2024-04-11 01:00:01 UTC] Backup process initialized.
+[2024-04-11 01:00:01 UTC] Process id: 225703
+[2024-04-11 01:00:01 UTC] --------------------------------------------------------------------------------
+[2024-04-11 01:00:01 UTC] Starting dump of database...
+[2024-04-11 01:00:01 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 33576552 (32,02 MB) / 57819600 (55 MB)
+[2024-04-11 01:00:03 UTC] Database info: Array
+(
+    [wp_actionscheduler_actions] => 216
+    [wp_actionscheduler_claims] => 3
+    [wp_actionscheduler_groups] => 10
+    [wp_actionscheduler_logs] => 562
+    [wp_commentmeta] => 0
+    [wp_comments] => 6
+    [wp_e_events] => 0
+    [wp_e_submissions] => 635
+    [wp_e_submissions_actions_log] => 635
+    [wp_e_submissions_values] => 2540
+    [wp_expm_hiiden_content] => 0
+    [wp_expm_maker] => 1
+    [wp_expm_maker_pages] => 0
+    [wp_find_and_replace] => 0
+    [wp_gla_attribute_mapping_rules] => 0
+    [wp_gla_budget_recommendations] => 4230
+    [wp_gla_merchant_issues] => 0
+    [wp_gla_shipping_rates] => 0
+    [wp_gla_shipping_times] => 1
+    [wp_imagify_files] => 956
+    [wp_imagify_folders] => 1
+    [wp_itsec_bans] => 0
+    [wp_itsec_dashboard_events] => 79
+    [wp_itsec_dashboard_lockouts] => 12
+    [wp_itsec_distributed_storage] => 0
+    [wp_itsec_fingerprints] => 0
+    [wp_itsec_firewall_rules] => 0
+    [wp_itsec_geolocation_cache] => 0
+    [wp_itsec_lockouts] => 11
+    [wp_itsec_logs] => 3784
+    [wp_itsec_mutexes] => 0
+    [wp_itsec_opaque_tokens] => 0
+    [wp_itsec_temp] => 134
+    [wp_itsec_user_groups] => 0
+    [wp_itsec_vulnerabilities] => 1
+    [wp_links] => 0
+    [wp_options] => 790
+    [wp_postmeta] => 3463
+    [wp_posts] => 535
+    [wp_rank_math_404_logs] => 79
+    [wp_rank_math_internal_links] => 1176
+    [wp_rank_math_internal_meta] => 160
+    [wp_rank_math_redirections] => 0
+    [wp_rank_math_redirections_cache] => 0
+    [wp_social_users] => 0
+    [wp_term_relationships] => 78
+    [wp_term_taxonomy] => 56
+    [wp_termmeta] => 8
+    [wp_terms] => 56
+    [wp_usermeta] => 159
+    [wp_users] => 3
+    [wp_wc_admin_note_actions] => 123
+    [wp_wc_admin_notes] => 89
+    [wp_wc_category_lookup] => 16
+    [wp_wc_customer_lookup] => 1
+    [wp_wc_download_log] => 0
+    [wp_wc_order_addresses] => 0
+    [wp_wc_order_coupon_lookup] => 0
+    [wp_wc_order_operational_data] => 0
+    [wp_wc_order_product_lookup] => 6
+    [wp_wc_order_stats] => 5
+    [wp_wc_order_tax_lookup] => 0
+    [wp_wc_orders] => 0
+    [wp_wc_orders_meta] => 0
+    [wp_wc_product_attributes_lookup] => 0
+    [wp_wc_product_download_directories] => 2
+    [wp_wc_product_meta_lookup] => 0
+    [wp_wc_rate_limits] => 0
+    [wp_wc_reserved_stock] => 0
+    [wp_wc_tax_rate_classes] => 2
+    [wp_wc_webhooks] => 0
+    [wp_woocommerce_api_keys] => 0
+    [wp_woocommerce_attribute_taxonomies] => 0
+    [wp_woocommerce_downloadable_product_permissions] => 0
+    [wp_woocommerce_log] => 0
+    [wp_woocommerce_order_itemmeta] => 54
+    [wp_woocommerce_order_items] => 6
+    [wp_woocommerce_payment_tokenmeta] => 0
+    [wp_woocommerce_payment_tokens] => 0
+    [wp_woocommerce_sessions] => 1
+    [wp_woocommerce_shipping_zone_locations] => 0
+    [wp_woocommerce_shipping_zone_methods] => 0
+    [wp_woocommerce_shipping_zones] => 0
+    [wp_woocommerce_tax_rate_locations] => 0
+    [wp_woocommerce_tax_rates] => 0
+    [wp_wpfm_backup] => 0
+    [wp_wpr_rocket_cache] => 41
+    [wp_wpr_rucss_used_css] => 49
+    [wp_yith_wcwl] => 18
+    [wp_yith_wcwl_lists] => 6
+)
+
+[2024-04-11 01:00:04 UTC] Dump of database complete! $status = 1
+[2024-04-11 01:00:04 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 33587688 (32,03 MB) / 57819600 (55 MB)
+[2024-04-11 01:00:04 UTC] --------------------------------------------------------------------------------
+[2024-04-11 01:00:04 UTC] Retrieving file list.
+[2024-04-11 01:00:06 UTC] Retrieving backup directory.
+[2024-04-11 01:00:06 UTC] Adding Database to file list.
+[2024-04-11 01:00:06 UTC] Database dump file added to file list: /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/wordpress.20240411-010003.sql / 9439239 (9,00 MB)
+[2024-04-11 01:00:06 UTC] Starting archiving of files. Chosen compressor: php_zip
+[2024-04-11 01:00:06 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 54416144 (51,90 MB) / 57918168 (55 MB)
+[2024-04-11 01:00:12 UTC] Total files / size archived: 31266 / 4407022718 (4,10 GB)
+[2024-04-11 01:00:12 UTC] Starting to close the zip file.
+[2024-04-11 01:00:12 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 55136144 (52,58 MB) / 57918168 (55 MB)
+[2024-04-11 01:03:04 UTC] Finished closing the zip file.
+[2024-04-11 01:03:04 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 55135984 (52,58 MB) / 57918168 (55 MB)
+[2024-04-11 01:03:04 UTC] Archiving of files complete!
+[2024-04-11 01:03:04 UTC] Archiving of files did not complete successfully: Array
+(
+    [error] => Cannot close ZIP archive file "/var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240411-010006.zip".
+)
+
+[2024-04-11 01:03:04 UTC] Archive filepath / size: /var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240411-010006.zip / 0 (0,00 B)
+[2024-04-11 01:03:04 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 55136040 (52,58 MB) / 57918168 (55 MB)
+[2024-04-11 01:03:04 UTC] Cannot close ZIP archive file "/var/www/html/wowtop/vetinh1/wp-content/boldgrid_backup_EtlXxB7JnW7k/boldgrid-backup-wowpow.com_.vn-a8287370-20240411-010006.zip".
+[2024-04-11 01:03:04 UTC] Backup complete!
+[2024-04-11 01:03:04 UTC] Memory usage - limit / current / peak memory usage: 1073741824 / 33590424 (32,03 MB) / 57918168 (55 MB)
